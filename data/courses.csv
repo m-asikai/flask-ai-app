@@ -1,0 +1,142 @@
+course_name,course_id,credits
+3D-grafiikka ja animaatiot,TT00EW81,4
+Artificial Intelligence with Python,TT00EV76,3
+C-ohjelmointi,TT00VI06,3
+C-Programming,TT00CB05,3
+C#-ohjelmointi,TT00AC49,4
+C++ Programming,TT00CB04,3
+ChatGPT markkinoinnin tukena,TT00FK72,3
+Dart Programming,TT00GD76,3
+Discrete Mathematics,TT00ES93,3
+Diskreetti matematiikka,TT00EM30,3
+Dynamics 365 CRM Fundamentals MB-910,TX00FV92,2
+Dynamics 365 ERP Fundamentals MB-920,TX00FV91,2
+Engineering Mathematics 1,TT00EM33,5
+Engineering Mathematics 2,TT00FC39,5
+Engineering Physics 1,TT00EZ11,5
+Engineering Physics 2,TT00FC37,5
+Expressions and Equations,TT00ES95,5
+Finnish for Foreigners 1,TT00ER83,5
+Finnish for Foreigners 2,TT00ER84,5
+Finnish for Foreigners 3,TT00ER85,5
+Finnish for Foreigners 4,TT00GP38,5
+How to become a Youtuber?,TX00FG02,5
+How to improve your Marketing using ChatGPT,TT00GD77,3
+Insinöörifysiikka 1,TT00ER82,5
+Insinöörifysiikka 2,TT00EW22,5
+Insinöörimatematiikka 1,TT00EM34,5
+Insinöörimatematiikka 2,TT00EW06,5
+Introduction to Artificial Intelligence,TT00EV75,3
+Introduction to C# Programming,TT00EM32,3
+Introduction to Java Programming,TT00CB03,3
+Introduction to JavaScript,TT00ET75,5
+Introduction to Kotlin,TT00EN72,3
+Introduction to Scala,TT00EW05,3
+Javascript-perusteet,TT00DV43,5
+Lausekkeet ja yhtälöt,TT00ES66,5
+Linux-basics,TT00EX57,3
+NodeJS,TT00EM31,3
+Ohjelmoinnin perusteet (Java),TT00VI07,3
+Ohjelmoinnin perusteet ja Java SE,TT00EW20,3
+Ohjelmoinnin perusteet (C++),TT00VI08,3
+Olio-ohjelmointi (C++),TT00VI01,3
+PHP-ohjelmointi,TT00AB77,3
+PHP Programming,TT00CA99,3
+Power Automation Micro Degree,TT00FT76/FT79/FT78,5
+Probability and Statistics,TT00ES94,3
+Python and Data Analytics & Statistics,TX00FV84,3
+Python-ohjelmointi,TT00AB76,3
+Python Programming,TT00CB02,3
+React js fundamentals,TT00EO88,3
+Robotic Process Automation (RPA),TT00EZ13,3
+RPA for Python,TT00FY44,3
+Ruby-ohjelmointi,TT00AC16,4
+Rust Programming,TX00FV64,3
+Software Testing with Robot Framework,TT00FH76,3
+SQL and Relational Databases,TT00CB01,3
+SQL-ja relaatiotietokannat,TT00DV44,5
+Todennäköisyys ja tilastomatematiikka,TT00EM35,3
+Unity-peliohjelmointi,TT00DU32,5
+Yhteiskunnallinen kriisinkestävyys,TX00FV62,3
+Yksilön resilienssi ja kriisinkestävyys,TX00FV63,2
+Advanced Django,TT00FF25,5
+Advanced Powershell,TT00EL09,5
+Ammatillinen ruotsi,TT00EW82,5
+Basics of Information Security,TT00ER70,6
+C++ Programming - a Comprehensive Treatment,TT00GM79,7
+CCNA Training Package,TT00FZ62,16
+CISSP,TT00CR29,8
+C Programming,TX00GL99,5
+CyberOps Associate,TT00GM75,3
+Database Foundations by Oracle Academy,TT00GL20,5
+Data Structures and Algorithms with Python,TX00FK26,5
+DevNet,TT00GD29,3
+DevOps Tools with Azure,2op,2
+Differentiaali- ja integraalilaskennan perusteet,TX00AA22,3
+Differentiaali- ja integraalilaskennan jatkokurssi,TT00FK12,3
+Digipainaminen ja prepress,XX00GP91,5
+Discovering Entrepreneurship,TT00FS87,1
+Economics,TT00EZ12,5
+Endpoint Security,TT00FS84,2
+English for ICT Students,TT00FO74,5
+Espanjan alkeet,TT00EZ10,5
+Espanjan kielen jatkokurssi,TX00FK27,5
+Ethical Hacking,TX00FN32,5
+Excel 365 edistynyt käyttö,TT00EW69,3
+Excel 365 peruskäyttö,TT00EW23,3
+Fundamentals of Angular,TT00FY45,3
+Fundamentals of Next.js,TT00GN12,3
+Fundamentals of React.js,TT00GQ49,3
+Game Idea to Product,TT00GM58,2
+Google Workspace,TT00FC50,5
+Huolinta- ja logistiikka-ala 2020-luvulla,TX00FW41,5
+Information Security with HelmetJS,TT00FV67,1
+Instagram as a Marketing Tool,TT00EU89,5
+Introduction to Cybersecurity,TT00FR69,2
+Introduction to Cross Platform Graphics Programming Abstraction with Vulkan and OpenGL ES,TT00GN82,5
+Introduction to Industrial IoT,TT00GM70,5
+Introduction to Operating Systems,TT00FD44,5
+Introduction to Supply Chain Management,XX00AB23,3
+IT Service Sales and Marketing,TT00EJ10,6
+IT Service Management,TT00CC68,6
+Investments,TT00GD74,5
+JavaScript Essentials,TT00FT15,5
+Java Programming with Oracle Academy,TX00GL70,3
+Kansantaloustieteen perusteet,TT00EX08,5
+LinkedIn Basics,TT00FK11,3
+Logistiikan ja toimitusketjun perusteet,TX00FO17,5
+Make a Roblox Game,TX00FN31,5
+Markkinointi ja yritystalous,XX00EM82,5
+Menesty modernissa ratkaisumyynnissä,XX00FJ44,5
+Microsoft Azure Fundamentals,TT00DV81,3
+Mikroprosessorit,TT00DD19,5
+Mittaustekniikka,TX00FE88,5
+Ms Project 2021 / Projektihallinnan ohjelmistot,TT00EL33,5
+Network Management,TT00FU17,3
+Networking Basics,TT00FT20,2
+NMAP,TX00FI78,5
+Näkökulmia kyberturvallisuuteen,TX00FL19,5
+Painomenetelmät, materiaalit ja visuaalisuus,XX00EN24,5
+Pakkauspainaminen,XX00FJ43,5
+Power BI,TX00FI25,5
+Practical MongoDB,TT00FV89,2
+Project Management Fundamentals with Oracle Academy,TT00GM01,5
+Project Management Software,TT00GK79,5
+Puppet Open Source Automation,TT00FV61,3
+Python Essentials,TT00FV30,3
+Qt Basics,TT00GD55,5
+Scrum Basics,TT00FJ54,3
+Sijoitustoiminnan perusteet,TT00EW18,5
+Tekniikan suomi ja viestintä,TX00BS06,5
+The Art and Science of Writing Youtube Videos,TX00FU25,2
+TikTok as a Marketing Tool,TX00FE87,5
+Tiedonhallinnan perusteet / Ms Access 2019,XX00AA79,3
+Tietoturvallisuuden perusteet,TT00EL92,6
+Todennäköisyyslaskenta ja tilastomatematiikka,TX00EY20,5
+Tutkimusviestintä,TX00EX68,5
+Unity Game Development,TT00EY83,5
+Unix/Linux (Basic and Advanced),TT00EN31,8
+Vue.js perusteet,TT00FP46,3
+Windows Powershell,TT00DD20,5
+Wireshark-perusteet,TT00DC88,3
+Wordpress-sovelluskehitys,TT00FB96,10
