@@ -1,0 +1,120 @@
+#container {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#chatbox {
+  height: 50vh;
+  width: 100%;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #356eca;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  overflow: hidden; /* prevent outer scroll, discussion should scroll */
+}
+#discussion {
+  flex: 1; /* take up available space */
+  margin: auto;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto; /* scroll only the discussion area */
+  padding: 0.5rem 0;
+  scrollbar-width: thin;
+}
+.answer {
+  align-self: flex-start;
+  margin-left: 1rem;
+  margin-right: auto;
+  margin-bottom: 1rem;
+  background-color: #d1e7ff;
+  padding: 0.5rem;
+  border-radius: 8px;
+  max-width: 70%;
+}
+#input {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  flex-shrink: 0;
+}
+#user-input {
+  padding-top: 2px;
+  width: 80%;
+  height: 2rem;
+}
+.user-message {
+  align-self: flex-end;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+  margin-left: auto;
+  background-color: #d1e7ff;
+  padding: 0.5rem;
+  border-radius: 8px;
+  max-width: 70%;
+}
+#send {
+  margin-left: 1rem;
+  border-radius: 8px;
+  font-weight: lighter;
+  border-width: 2px;
+  font-size: large;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+#filters {
+  display: flex;
+}
+.filter-button {
+  user-select: none;
+  margin: 1rem;
+  font-weight: bold;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: #356eca;
+  padding: 4px;
+  color: #356eca;
+  cursor: pointer;
+}
+#course-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card {
+  box-sizing: border-box;
+  width: 20%;
+  padding: 1rem;
+  margin: 2px;
+  background-color: #eeeeee;
+}
+.info {
+  text-align: center;
+  color: #3b3c3d;
+}
+.button {
+  cursor: pointer;
+  margin: auto;
+  width: fit-content;
+  background-color: #ffffff;
+  border-radius: 4px;
+  padding: 4px;
+  border-style: solid;
+  border-color: #356eca;
+  font-weight: bold;
+  color: #356eca;
+}
+.button:hover {
+  background-color: #b6b7bbff;
+}
+pre {
+  overflow: auto;
+  scrollbar-width: thin;
+}

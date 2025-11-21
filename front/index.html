@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <script src="main.js" defer type="module"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
+    <link rel="stylesheet" href="main.css" />
+  </head>
+  <body>
+    <div id="container">
+      <div id="chatbox">
+        <div id="discussion"></div>
+        <div id="input">
+          <input
+            type="text"
+            id="user-input"
+            name="user-input"
+            placeholder="Click on 'Learn more'-button to learn about the course in question."
+            disabled
+          />
+          <p id="send" class="button">Send</p>
+        </div>
+      </div>
+      <div id="filters">
+        <p id="alphabetic" class="filter-button">Alphabetical</p>
+        <p id="by-credit" class="filter-button">By credits</p>
+      </div>
+      <div id="course-info"></div>
+    </div>
+  </body>
+</html>
