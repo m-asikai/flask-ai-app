@@ -17,7 +17,6 @@ app = Flask(__name__)
 CORS(app)
 
 conversations = []
-messages = []
 
 
 @app.route("/courses")
